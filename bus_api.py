@@ -43,7 +43,7 @@ def convert_busan_bus_type(type_str):
 def convert_type_to_region(route_type):
     if route_type <= 10:
         return '서울'
-    elif route_type <= 60:
+    elif route_type <= 60:IjskES33QcGR2CGjKxIdF/hUXN5Y2q1RfMM/6pfecKY99iIHPvxxCOLaPgBOniJg+4ajjFg2XGH0YYm2+3KERA==
         return '경기'
     else:
         return '부산'
